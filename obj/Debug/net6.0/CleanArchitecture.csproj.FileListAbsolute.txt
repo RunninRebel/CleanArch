@@ -1,0 +1,6 @@
+/home/jc/Documents/Git_Repos/CleanArchitecture/obj/Debug/net6.0/CleanArchitecture.csproj.AssemblyReference.cache
+/home/jc/Documents/Git_Repos/CleanArchitecture/obj/Debug/net6.0/CleanArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+/home/jc/Documents/Git_Repos/CleanArchitecture/obj/Debug/net6.0/CleanArchitecture.AssemblyInfoInputs.cache
+/home/jc/Documents/Git_Repos/CleanArchitecture/obj/Debug/net6.0/CleanArchitecture.AssemblyInfo.cs
+/home/jc/Documents/Git_Repos/CleanArchitecture/obj/Debug/net6.0/CleanArchitecture.csproj.CoreCompileInputs.cache
+/home/jc/Documents/Git_Repos/CleanArchitecture/obj/Debug/net6.0/CleanArchitecture.sourcelink.json
